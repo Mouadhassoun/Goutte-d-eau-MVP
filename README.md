@@ -3,7 +3,7 @@ Projet Goutte d’Eau — MVP
 Prédiction du risque de pluie en Bretagne via un modèle de Machine Learning exposé avec FastAPI et une interface Streamlit.
 
 1. Structure du projet
-"""
+```
 goutte_api/
 │
 ├── data/
@@ -24,7 +24,7 @@ goutte_api/
 │
 ├── requirements.txt
 └── README.md
-"""
+```
 3. Installation
 
 Assurez-vous d’avoir Python 3.9+.
@@ -126,4 +126,5 @@ mise en cache des prédictions pour réduire les appels au modèle.
 
 
 Projet académique — usage pédagogique.
+
 
