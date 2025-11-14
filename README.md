@@ -123,4 +123,5 @@ mise en cache des prédictions pour réduire les appels au modèle.
 
 9. Licence
 
+
 Projet académique — usage pédagogique.
