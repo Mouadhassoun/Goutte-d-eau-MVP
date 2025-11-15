@@ -4,7 +4,7 @@ Prédiction du risque de pluie en Bretagne via un modèle de Machine Learning ex
 
 1. Structure du projet
 ```
-goutte_api/
+Goutte-d-eau-MVP/
 │
 ├── data/
 │   ├── climat_data.csv
@@ -29,10 +29,13 @@ goutte_api/
 
 Assurez-vous d’avoir Python 3.9+.
 
-git clone <URL_DU_REPO>
-cd goutte_api
+```
+git clone https://github.com/Mouadhassoun/Goutte-d-eau-MVP.git
+cd Goutte-d-eau-MVP
+python -m venv goutte
+goutte\Scripts\activate
 pip install -r requirements.txt
-
+```
 3. Lancement de l’API FastAPI
 
 Dans le dossier du projet :
@@ -126,5 +129,6 @@ mise en cache des prédictions pour réduire les appels au modèle.
 
 
 Projet académique — usage pédagogique.
+
 
 
