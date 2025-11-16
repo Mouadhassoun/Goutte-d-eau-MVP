@@ -110,25 +110,26 @@ l’export du modèle en .pkl
 ```
 8. Éco-responsabilité et accessibilité
 
-Dans le cadre du MVP :
-
-l’API et Streamlit fonctionnent en local,
-
-le stockage SQLite est prévu pour une future extension,
-
-le code est léger et optimise les ressources,
-
-l’interface suit des principes d’accessibilité (contrastes, simplicité, lisibilité).
-
-Des recommandations pour le futur :
-
-hébergement sur un VPS alimenté en énergie verte,
-
-mise en cache des prédictions pour réduire les appels au modèle.
+  Dans le cadre du MVP :
+  
+  l’API et Streamlit fonctionnent en local,
+  
+  le stockage SQLite est prévu pour une future extension,
+  
+  le code est léger et optimise les ressources,
+  
+  l’interface suit des principes d’accessibilité (contrastes, simplicité, lisibilité).
+  
+  Des recommandations pour le futur :
+  
+  hébergement sur un VPS alimenté en énergie verte,
+  
+  mise en cache des prédictions pour réduire les appels au modèle.
 
 9. Licence
 
-Projet académique — usage pédagogique.
+  Projet académique — usage pédagogique.
+
 
 
 
