@@ -20,8 +20,8 @@ Goutte-d-eau-MVP/
 │   └── streamlit_app.py
 │
 ├── notebooks/
-│   └── model_experiments.ipynb
-│
+│   ├── data_api.ipynb
+│   └── notebook.ipynb
 ├── requirements.txt
 └── README.md
 ```
@@ -129,6 +129,7 @@ l’export du modèle en .pkl
 9. Licence
 
   Projet académique — usage pédagogique.
+
 
 
 
