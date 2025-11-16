@@ -1,6 +1,6 @@
 Projet Goutte d’Eau — MVP
 
-Prédiction du risque de pluie en Bretagne via un modèle de Machine Learning exposé avec FastAPI et une interface Streamlit.
+Prédiction du risque de pluie en Bretagne(Rennes) via un modèle de Machine Learning exposé avec FastAPI et une interface Streamlit.
 
 1. Structure du projet
 ```
@@ -45,7 +45,7 @@ uvicorn api.api_server:app --reload
 
 L’API sera disponible ici : 
 ```
-http://127.0.0.1:8000/ ==> Affiche un message propre
+http://127.0.0.1:8000/ ==> Affiche le message : Bienvenue sur l'API Goutte d'eau — utilisez /docs pour tester les prédictions.
 ```
 Documentation interactive (Swagger UI) :
 ```
@@ -129,6 +129,7 @@ l’export du modèle en .pkl
 9. Licence
 
   Projet académique — usage pédagogique.
+
 
 
 
